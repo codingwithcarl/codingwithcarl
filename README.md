@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=caz-iii&theme=aura_dark"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=codingwithcarl&theme=aura_dark"/>
 </p>
 
 I am a Senior Software Engineer that thrives on solving problems. Majority of my experience has been with Java, Python, and various web frameworks. As a Software engineer, I'm constantly evolving, picking up new technologies, and choosing the right tool for the job. 
